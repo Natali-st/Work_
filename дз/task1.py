@@ -212,7 +212,7 @@ c = int(input("долг: "))
 
 u = a - b - c
 
-print(f"остаток: {u}") #у меня иногда переключается клавиатура на французскую, так что код может не срабатывать из-за этого, е
+print(f"остаток: {u}")
 """
 
 #3
@@ -227,7 +227,16 @@ print(f"площадь: {y}")
 """
 
 #4
+"""
+print('To be')
+print('or not')
+print('to be')
+"""
 
-
-
-
+#5
+"""
+print(' "Life is what happens')
+print('      when')
+print('         you're busy making other plans"')
+print('              John Lennon')
+"""
